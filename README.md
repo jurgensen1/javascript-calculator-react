@@ -1,4 +1,4 @@
-# Project: markdown viewer  
+# Project: JavaScript Calculator  
 This is a web development project that uses the front-end framework React.  
 Redux is used to manage state. It is in partial completion of freeCodeCamp's   
 front-end framework certificate program.  
